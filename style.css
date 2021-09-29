@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align: center;
+}
+a {padding-left: 10px;
+  padding-right: 10px;
+background-color: aquamarine;}
+
+figure {font-size: 14px;
+}
+
+#featured-property > p {
+  width: 800px;
+}
+
+div {
+  float: left;
+text-align: center;
+width: 25%;}
